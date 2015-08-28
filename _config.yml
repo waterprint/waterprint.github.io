@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: 嘉級
 locale: en_US
-description: Describe your website here.
+description: 台北工廠提供高品質水轉印、自動噴漆服務。表面處理：PU塗裝、UV烤漆、鋼琴鏡面烤漆。
 logo: site-logo.png
 search: true
 url: http://waterprint.github.io/
