@@ -49,7 +49,7 @@ owner:
   weibo: #userid
   google:
     plus: #username
-    analytics: 
+    analytics: UA-66081576-3
     verify: google5e0e2d657365fd66
     ad-client:
     ad-slot:
