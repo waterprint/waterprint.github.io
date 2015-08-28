@@ -33,7 +33,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: 嘉級有限公司
+  name: "嘉級有限公司"
   avatar: bio-photo.jpg
   email: you@email.com
   disqus-shortname:
