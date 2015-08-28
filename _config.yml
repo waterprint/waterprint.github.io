@@ -5,7 +5,7 @@ locale: en_US
 description: 提供水轉印、表面塗裝服務
 logo: site-logo.png
 search: true
-url: http://waterprint.github.io/
+url: http://waterprint.github.io
 
 # Jekyll configuration
 
