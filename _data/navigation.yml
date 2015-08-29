@@ -27,7 +27,19 @@ tw:
 
 en:
 - title: about
-  url: /about/
+  url: en/about/
   
 - title: process
-  url: /process/
+  url: en/process/
+  
+- title: service
+  url: en/
+
+- title: water transfer printing
+  url: en/water-transfer-printing/
+
+- title: products
+  url: en/product
+  
+- title: contact
+  url: en/contact/
