@@ -1,5 +1,6 @@
 # Site wide configuration
 
+# access this data by site.title or site.locale or ...
 title: 嘉級
 locale: zh_TW
 description: 提供水轉印、表面塗裝服務
@@ -32,6 +33,8 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 
 # Site owner
+# access this data by site.owner.name or ...
+# http://jekyllrb.com/docs/datafiles/
 owner:
   name: "嘉級有限公司"
   avatar: bio-photo.jpg
