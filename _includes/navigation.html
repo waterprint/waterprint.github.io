@@ -38,6 +38,12 @@
 	{% endif %}
   </header><!-- /.masthead -->
 {% else %}
+  {% if page.path contains "/en/" %}
+    {% assign site_url = site.url | append:'/en/' %}
+  {% else %}
+    {% assign site_url = site.url %}
+  {% endif %}
+  
   <header class="masthead">
 	<div class="wrap">
     {% if site.logo != null %}
