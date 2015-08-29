@@ -1,7 +1,13 @@
 # Site navigation links
 
-#- title: About
-#  url: /about/
+- title: 關於我們
+  url: /about/
+  
+- title: 工作流程
+  url: /process/
+  
+- title: 服務項目
+  url: /service/
 
 #- title: Articles
 #  url: /articles/
@@ -20,6 +26,9 @@
 
 - title: 成品照片(站外)
   url: https://www.flickr.com/photos/14445365@N08/
+  
+- title: 聯絡方式
+  url: /contact/
 
 #- title: 站內搜尋
 #  url: /search/
