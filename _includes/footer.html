@@ -1,11 +1,21 @@
 {% if site.owner.google.ad-client and site.owner.google.ad-slot %}{% include ad-footer.html %}{% endif %}
 
-<ul>
-  <li><a href="http://tw.waterprintx.com">嘉級有限公司</a></li>
-  <li>台灣新北市樹林區俊安街18號 (<a href="https://www.google.com.tw/maps/place/25%C2%B000'51.0%22N+121%C2%B025'10.1%22E/@25.014181,121.419461,18z/data=!4m2!3m1!1s0x0:0x0" target="_blank">地圖</a>)</li>
-  <li>MAIL：<a href="mailto:a8844.a8844@msa.hinet.net">a8844.a8844@msa.hinet.net</a></li>
-  <li class="border-block"><b>成品照片</b>：<a href="https://www.flickr.com/photos/14445365@N08/" target="_blank">flickr</a></li>
-</ul>
+{% if page.url contains "/en/" %}
+  <ul>
+    <li><a href="http://tw.waterprintx.com">CHIA CHI ENTERPRISE CO., LTD</a></li>
+    <li>No.18, Jun’an St., Shulin Dist., New Taipei City 238, Taiwan (<a href="https://www.google.com.tw/maps/place/25%C2%B000'51.0%22N+121%C2%B025'10.1%22E/@25.014181,121.419461,18z/data=!4m2!3m1!1s0x0:0x0" target="_blank">map</a>)</li>
+    <li>MAIL：<a href="mailto:a8844.a8844@msa.hinet.net">a8844.a8844@msa.hinet.net</a></li>
+    <li class="border-block"><b>photos</b>：<a href="https://www.flickr.com/photos/14445365@N08/" target="_blank">flickr</a></li>
+  </ul>
+{% else %}
+  <ul>
+    <li><a href="http://tw.waterprintx.com">嘉級有限公司</a></li>
+    <li>台灣新北市樹林區俊安街18號 (<a href="https://www.google.com.tw/maps/place/25%C2%B000'51.0%22N+121%C2%B025'10.1%22E/@25.014181,121.419461,18z/data=!4m2!3m1!1s0x0:0x0" target="_blank">地圖</a>)</li>
+    <li>MAIL：<a href="mailto:a8844.a8844@msa.hinet.net">a8844.a8844@msa.hinet.net</a></li>
+    <li class="border-block"><b>成品照片</b>：<a href="https://www.flickr.com/photos/14445365@N08/" target="_blank">flickr</a></li>
+  </ul>
+{% endif %}
+
 <span>Copyright &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. All rights reserved.</span>
 <div class="social-icons">
 	{% if site.owner.twitter %}<a href="https://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
