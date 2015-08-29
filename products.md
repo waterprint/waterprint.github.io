@@ -1,0 +1,21 @@
+---
+layout: page
+title: 水轉印成品
+excerpt: 水轉印常用於各種車內裝潢、車身外殼、家具擺飾、展覽裝飾、配件飾板。如機車大盾牌、汽車儀表板、中控台、水箱罩、導流板
+---
+
+水轉印常用於各種車內裝潢、車身外殼、家具擺飾、展覽裝飾、配件飾板。如機車大盾牌、汽車儀表板、中控台、水箱罩、導流板
+
+<figure class="half">
+	<a href="image/products/car-dashboard-water-transfer-printing-DSC00306.jpg"><img src="image/products/car-dashboard-water-transfer-printing-DSC00306.jpg" alt="汽車儀錶板 - 紅色核桃木水轉印"></a>
+	<a href="image/products/diffuser-wood-water-transfer-printing-DSC01301.jpg"><img src="image/products/diffuser-wood-water-transfer-printing-DSC01301.jpg" alt="家用芳香劑 - 楓葉風景圖水轉印"></a>
+    <a href="image/products/DSC01311.jpg"><img src="image/products/DSC01311.jpg" alt="容器外殼 - 石紋水轉印"></a>
+    <a href="image/products/silver-godzilla-cardon-elephant-DSC01349.jpg"><img src="image/products/silver-godzilla-cardon-elephant-DSC01349.jpg" alt="黑色卡夢大象水轉印 vs 銀色酷斯拉"></a>
+	<figcaption>汽車裝潢儀表板、家用擺飾電器外殼</figcaption>
+</figure>
+
+<figure class="half">
+	<a href="image/products/scooter-body-cover-DSC00238.jpg"><img src="image/products/scooter-body-cover-DSC00238.jpg" alt="機車大盾牌 - 紅色卡夢水轉印"></a>
+	<a href="image/products/wheel-carbon-water-transfer-printing-DSC00264-1.jpg"><img src="image/products/wheel-carbon-water-transfer-printing-DSC00264-1.jpg" alt="車輪鋁圈 - 紅色卡夢水轉印"></a>
+	<figcaption>機車各部分卡夢水轉印 - 大盾牌、鋁圈、車身車殼、把手、龍頭殼、大燈殼、胸殼...</figcaption>
+</figure>
