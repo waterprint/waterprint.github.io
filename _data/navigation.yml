@@ -3,6 +3,7 @@
 # you must put .yml in _data folder
 # access data by site.data.navigation.url
 
+tw:
 - title: 關於我們
   url: /about/
   
@@ -23,3 +24,10 @@
 
 #- title: 站內搜尋
 #  url: /search/
+
+en:
+- title: about
+  url: /about/
+  
+- title: process
+  url: /process/
