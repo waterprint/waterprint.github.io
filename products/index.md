@@ -13,6 +13,14 @@ excerpt: 水轉印常用於各種車內裝潢、車身外殼、家具擺飾、�
 {% endhighlight %}
 
 <figure class="half">
+	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt="image"></a>
+	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt="image"></a>
+	<img src="http://placehold.it/600x300.jpg" alt="image">
+	<img src="http://placehold.it/600x300.jpg" alt="image">
+	<figcaption>Two images.</figcaption>
+</figure>
+
+<figure class="half">
 	![Twitter Card summary large image screenshot]({{ site.url }}/images/twitter-card-summary-large-image.jpg)
 	![Twitter Card summary large image screenshot]({{ site.url }}/images/twitter-card-summary-large-image.jpg)
 	<figcaption>Caption describing these two images.</figcaption>
