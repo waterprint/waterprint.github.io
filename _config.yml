@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: 嘉級
-locale: en_US
+locale: zh_TW
 description: 提供水轉印、表面塗裝服務
 logo: site-logo.png
 search: true
