@@ -2,6 +2,9 @@
 layout: page
 title: 水轉印, 表面處理
 excerpt: 本工廠提供水轉印服務，可印圖案在立體物品上。有卡夢水轉印，各種迷彩、木紋、石紋、蛇皮、豹皮...
+image:
+  feature: water-transfer-printing.jpg
+  credit: 嘉級有限公司
 ---
 
 本工廠提供水轉印服務，可將圖案印在立體的物品上。水轉印是少數可以辦到這種事，且兼顧圖案品質的技術。
