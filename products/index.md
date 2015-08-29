@@ -4,8 +4,14 @@ title: 水轉印成品
 excerpt: 水轉印常用於各種車內裝潢、車身外殼、家具擺飾、展覽裝飾、配件飾板。如機車大盾牌、汽車儀表板、中控台、水箱罩、導流板
 ---
 
-工廠提供水轉印，噴漆塗裝服務
+<figure class="half">
+	<img src="/images/image-filename-1.jpg" alt="image">
+	<img src="/images/image-filename-2.jpg" alt="image">
+	<figcaption>Caption describing these two images.</figcaption>
+</figure>
 
-<h2>本廠簡介</h2>
-<p>本工廠為成立多年的公司，專門於各種表面處理，讓產品的外貌可以呈現不同的風格。設有機台為客服務，擁有自動噴漆設備可量產成品，擅長多種塗裝技巧。追求高品質處理技術，為客戶的成品提升質感。有水轉印設備，協助客戶進行成品外觀上的升級。</p>
-
+<figure class="half">
+	![Twitter Card summary large image screenshot]({{ site.url }}/images/twitter-card-summary-large-image.jpg)
+	![Twitter Card summary large image screenshot]({{ site.url }}/images/twitter-card-summary-large-image.jpg)
+	<figcaption>Caption describing these two images.</figcaption>
+</figure>
