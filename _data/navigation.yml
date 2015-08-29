@@ -1,5 +1,8 @@
 # Site navigation links
 
+# you must put .yml in _data folder
+# access data by site.data.navigation.url
+
 - title: 關於我們
   url: /about/
   
