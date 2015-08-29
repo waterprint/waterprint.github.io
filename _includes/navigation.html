@@ -1,10 +1,16 @@
 <div class="navigation-wrapper">
 	<nav role="navigation" id="site-nav" class="animated drop">
 	    <ul>
-      {% for link in site.data.navigation %}
+      {% if page.path contains "/en/" %}
+        {% assign links = site.data.navigation.en %}
+      {% else %}
+        {% assign links = site.data.navigation.tw %}
+      {% endif %}
+      
+      {% for link in links %}
 		    {% if link.url contains 'http' %}
 		        {% assign domain = '' %}
-		        {% else %}
+		    {% else %}
 		        {% assign domain = site.url %}
 		    {% endif %}
 		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
