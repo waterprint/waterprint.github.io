@@ -17,3 +17,5 @@ excerpt: 工廠提供水轉印，噴漆塗裝服務。
     <li class="border-block">成品照片：<a href="https://www.flickr.com/photos/14445365@N08/" target="_blank">flickr</a></li>
   </ul>
 </div>
+
+<p>ps. 實物、用途明確才能報價。歡迎直接來信告知：物品詳細規格(有圖佳)、表面處理範圍、用途。我們會有專人回覆。</p>
