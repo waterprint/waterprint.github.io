@@ -8,6 +8,12 @@ logo: site-logo.png
 search: true
 url: http://waterprint.github.io
 
+en:
+  title: CHIA CHI
+  description:
+  owner:
+    name: CHIA CHI ENTERPRISE CO., LTD
+
 # Jekyll configuration
 
 permalink:   /:categories/:title/
