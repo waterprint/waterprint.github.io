@@ -15,4 +15,4 @@ We provide **Water Transfer Printing**, which can put image on curved surface. I
 
 surface treatment - Paint Spraying: UV coating, PU coating(polyurethane)
 
-We have **auto paint spraying** equipment to Mass production
+We have **auto paint spraying** equipment for Mass production
