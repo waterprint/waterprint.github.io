@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Water Transfer Printing, Surface Treatment
-excerpt: water transfer printing service. It can add image on curved surface! Image: brushed finish, Carbon, Wood Grain, Snakeskin, Stone...
+excerpt: "Water Transfer Printing service. It can add image on curved surface! Image: brushed finish, Carbon, Wood Grain, Snakeskin, Stone..."
 image:
   feature: water-transfer-printing.jpg
   credit: CHIA CHI
