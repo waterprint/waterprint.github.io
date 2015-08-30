@@ -1,7 +1,9 @@
 {% if page.url contains "/en/" %}
   {% assign site_url = site.url | append:'/en' %}
+  {% assign site_title = 'CHIA CHI' %}
 {% else %}
   {% assign site_url = site.url %}
+  {% assign site_title = site.title %}
 {% endif %}
 
 <div class="navigation-wrapper">
@@ -29,11 +31,11 @@
 
 {% if page.image.feature %}
   <header class="masthead">
-  <h1 class="site-title animated fadeIn" style="text-align: center; margin: 0;"><a href="{{ site_url }}/">{{ site.title }}</a></h1>
+  <h1 class="site-title animated fadeIn" style="text-align: center; margin: 0;"><a href="{{ site_url }}/">{{ site_title }}</a></h1>
 	<h2 class="site-description animated fadeIn" style="text-align: center; margin: 0;" itemprop="description">{{ site.description }}</h2>
 	{% if site.logo != null %}
 		<div class="wrap">
-			<a href="{{ site_url }}/" class="site-logo" rel="home" title="{{ site.title }}"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo" class="animated fadeInDown"></a>
+			<a href="{{ site_url }}/" class="site-logo" rel="home" title="{{ site_title }}"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site_title }} logo" class="animated fadeInDown"></a>
 		</div>
 	{% endif %}
   </header><!-- /.masthead -->
@@ -41,9 +43,9 @@
   <header class="masthead">
 	<div class="wrap">
     {% if site.logo != null %}
-  		<a href="{{ site_url }}/" class="site-logo" rel="home" title="{{ site.title }}"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo" class="animated fadeInDown"></a>
+  		<a href="{{ site_url }}/" class="site-logo" rel="home" title="{{ site_title }}"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site_title }} logo" class="animated fadeInDown"></a>
     {% endif %}
-    <h1 class="site-title animated fadeIn"><a href="{{ site_url }}/">{{ site.title }}</a></h1>
+    <h1 class="site-title animated fadeIn"><a href="{{ site_url }}/">{{ site_title }}</a></h1>
 		<h2 class="site-description animated fadeIn" itemprop="description">{{ site.description }}</h2>
 	</div>
   </header><!-- /.masthead -->
