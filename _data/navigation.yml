@@ -5,22 +5,22 @@
 
 tw:
 - title: 關於我們
-  url: /about/
+  url: /about
   
 - title: 工作流程
-  url: /process/
+  url: /process
   
 - title: 服務項目
   url: /
 
 - title: 水轉印
-  url: /water-transfer-printing/
+  url: /water-transfer-printing
 
 - title: 成品照片
   url: /product
   
 - title: 聯絡方式
-  url: /contact/
+  url: /contact
 
 - title: english
   url: /en/
