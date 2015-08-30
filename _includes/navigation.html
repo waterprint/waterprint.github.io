@@ -1,6 +1,6 @@
 {% if page.url contains "/en/" %}
   {% assign site_url = site.url | append:'/en' %}
-  {% assign site_title = 'CHIA CHI' %}
+  {% assign site_title = site.en.title %}
 {% else %}
   {% assign site_url = site.url %}
   {% assign site_title = site.title %}
