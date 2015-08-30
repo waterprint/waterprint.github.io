@@ -7,6 +7,7 @@
     <li>MAIL：<a href="mailto:a8844.a8844@msa.hinet.net">a8844.a8844@msa.hinet.net</a></li>
     <li class="border-block"><b>photos</b>：<a href="https://www.flickr.com/photos/14445365@N08/" target="_blank">flickr</a></li>
   </ul>
+  <span>Copyright &copy; {{ site.time | date: '%Y' }} {{ site.en.owner.name }}. All rights reserved.</span>
 {% else %}
   <ul>
     <li><a href="http://tw.waterprintx.com">嘉級有限公司</a></li>
@@ -14,9 +15,9 @@
     <li>MAIL：<a href="mailto:a8844.a8844@msa.hinet.net">a8844.a8844@msa.hinet.net</a></li>
     <li class="border-block"><b>成品照片</b>：<a href="https://www.flickr.com/photos/14445365@N08/" target="_blank">flickr</a></li>
   </ul>
+  <span>Copyright &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. All rights reserved.</span>
 {% endif %}
 
-<span>Copyright &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. All rights reserved.</span>
 <div class="social-icons">
 	{% if site.owner.twitter %}<a href="https://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
 	{% if site.owner.facebook %}<a href="https://facebook.com/{{ site.owner.facebook }}" title="{{ site.owner.name}} on Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>{% endif %}
