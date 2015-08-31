@@ -13,6 +13,6 @@ We provide **Water Transfer Printing**, which can put image on curved surface. I
 
 ## Auto Paint Spraying
 
-Surface Treatment - Paint Spraying: UV coating, PU coating (polyurethane coating). Had many years’ experience, We know how to treat different material.
+Surface Treatment - Paint Spraying: UV coating, PU coating (ultraviolet coating, polyurethane coating). Had many years’ experience, We know how to treat different material.
 
 We have **auto paint spraying** equipment for Mass production.
