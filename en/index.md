@@ -5,7 +5,7 @@ excerpt: Taiwan, Water Transfer Printing, Paint Spraying, Polyurethane UV Resist
 search_omit: true
 ---
 
-services
+SERVICES:
 
 <h2><a href="{{ site.url }}/en/water-transfer-printing">Water Transfer Printing</a></h2>
 
@@ -13,6 +13,6 @@ We provide **Water Transfer Printing**, which can put image on curved surface. I
 
 ## Auto Paint Spraying
 
-surface treatment - Paint Spraying: UV coating, PU coating(polyurethane)
+Surface Treatment - Paint Spraying: UV coating, PU coating (polyurethane coating). Had many years’ experience, We know how to treat different material.
 
-We have **auto paint spraying** equipment for Mass production
+We have **auto paint spraying** equipment for Mass production.
