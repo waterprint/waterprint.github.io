@@ -13,8 +13,8 @@ Manufactory provides *water transfer printing* and *paint spraying* services.
     <li>TEL：<a href="tel:886-02-2689-7808">+886 (02) 2689-7808</a></li>
     <li>FAX：+886 02-26891127</li>
     <li>MAIL：<a href="mailto:a8844.a8844@msa.hinet.net">a8844.a8844@msa.hinet.net</a></li>
-    <li>Opening Hours: UTC+08:00 8:00-12:00, 13:00-17:00 (Monday-Friday)</li>
-    <li class="border-block">photos：<a href="https://www.flickr.com/photos/14445365@N08/" target="_blank">flickr</a></li>
+    <li>Opening Hours: UTC+08:00, 8:00-12:00, 13:00-17:00 (Monday-Friday)</li>
+    <li class="border-block">Photos：<a href="https://www.flickr.com/photos/14445365@N08/" target="_blank">flickr</a></li>
   </ul>
 </div>
 
