@@ -4,7 +4,7 @@ title: Water Transfer Printing Products
 excerpt: water transfer printing exists in automotive, sports, aluminium, electronics inducstry...
 ---
 
-There are many products of water transfer printing in our life, from automotive industry, sports industry, aluminium industry, to electronics inducstry: car interior, ornament, dashboard, car Grille, computer...
+There are many products of water transfer printing in our life, from automotive industry, sports industry, aluminium industry, to electronics inducstry: car interior, ornament, dashboard, car grille, computer...
 
 <figure class="half">
 	<a href="images/products/car-dashboard-water-transfer-printing-DSC00306.jpg"><img src="images/products/car-dashboard-water-transfer-printing-DSC00306.jpg" alt="car dashboard - red water transfer printing"></a>
@@ -20,4 +20,4 @@ There are many products of water transfer printing in our life, from automotive 
 	<figcaption>part of scooter - red carbon water transfer printing - wheel, body cover, ornamental mouldings...</figcaption>
 </figure>
 
-more photos in below(flickr)
+more photos in below (flickr)
