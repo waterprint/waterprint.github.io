@@ -37,7 +37,7 @@ It can apply almost every material!
 
 ## PROPERTY
 
-The image will move around in the process, so we can't guarantee every image on the product will be same.
+The image will move around in the process, so we can't guarantee every image on the product will be on the same location.
 
 ## NOTICE
 
