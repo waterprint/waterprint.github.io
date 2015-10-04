@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Water Transfer Printing, paint spraying
-excerpt: We provide water transfer printing, paint spraying services.
+title: Water Transfer Printing, paint spraying, TAIWAN
+excerpt: Water Transfer Printing, Paint Spraying services provided by CHIA CHI of TAIWAN..
 ---
 
 Manufactory provides *water transfer printing* and *paint spraying* services.
