@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CHIA CHI ENTERPRISE CO.
+title: CHIA CHI ENTERPRISE CO. TAIWAN
 excerpt: We are experts in all aspects of water transfer printing and paint spraying in TAIWAN.
 ---
 
