@@ -7,7 +7,7 @@ image:
   credit: CHIA CHI
 ---
 
-We provide water transfer printing service. It can add image on curved surface!
+We provide [water transfer printing](http://waterprint.github.io/en/explain) service. It can add image on curved surface!
 
 ## PATTERN/FILM
 
